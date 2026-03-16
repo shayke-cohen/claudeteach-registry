@@ -250,7 +250,7 @@ In addition to built-in modules, you can install community-created packs:
 
 | Pack | Modules | Topics |
 |------|---------|--------|
-| [community-essentials](https://github.com/shayke-cohen/claudeteach-community-pack) | 5 | Claude Code, MCP Servers, Writing Skills, NotebookLM, Pizza Making |
+| [community-essentials](https://github.com/shayke-cohen/socrates-community-pack) | 5 | Claude Code, MCP Servers, Writing Skills, NotebookLM, Pizza Making |
 
 ### Submit Your Own Module Pack
 
